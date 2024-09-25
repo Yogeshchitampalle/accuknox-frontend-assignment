@@ -51,11 +51,11 @@ export function DrawerPlacement() {
           <div className="mb-11">
             <WidgetTable />
           </div>
-          <div className="flex gap-2 justify-end mr-2">
-            <Button onClick={toggleHandler} size="sm" variant="outlined">
+          <div className="flex gap-2 justify-center mr-2">
+            <Button className=" bg-red-500 text-white"  onClick={toggleHandler} size="sm" variant="outlined">
               Cancel
             </Button>
-            <Button size="sm">Confirm</Button>
+            <Button className=" bg-blue-500 text-white" size="sm">Confirm</Button>
           </div>
         </div>
       </Drawer>
