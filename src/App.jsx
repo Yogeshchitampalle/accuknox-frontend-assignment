@@ -5,6 +5,7 @@ import CwppDash from './Components/CwppDash/CwppDash'
 import CwppCard from './Components/CwppDash/CwppCard'
 import RegisteryDash from './Components/RegistryScan/RegisteryDash'
 import RegCard from './Components/RegistryScan/RegCard'
+import Footer from './Components/MainNavigation/Layout/Footer'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
          <CwppCard/>
          <RegisteryDash/>
          <RegCard/>
+         <Footer />
     </Layout>
     </>
   )
