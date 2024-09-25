@@ -1,4 +1,5 @@
 # accuknox-frontend-assignment
+Demo Link:- https://accuknox-vite-dashboard.netlify.app/#
 # Dynamic Dashboard Application
 
 This project is a dynamic dashboard application built with React, Redux, and Tailwind CSS. It allows users to create, manage, and visualize widgets within a customizable dashboard.
